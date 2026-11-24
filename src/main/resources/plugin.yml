@@ -1,0 +1,5 @@
+name: FiestaFlightGuard
+version: 1.0.0
+main: com.fiesta.flight.FlightGuard
+api-version: '1.21'
+description: Prevents creative-style flight in survival while allowing safe landings
